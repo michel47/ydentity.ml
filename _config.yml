@@ -1,0 +1,27 @@
+# Site settings
+# vim: nospell
+port: 4000
+output: _dist
+title: "Ydentity™"
+moto: Be your Self Sovereign Identity
+description: manage and control your identiy with Ydent™
+author: michelc
+email: michelc@gc-bank.org
+name: quirky-snyder-3ff3cf
+baseurl: ""
+url: "//ydentiy.ml" # the base hostname & protocol for your site
+search_url: "//duckduckgo.com/?q"
+# --- IPFS Stuff ...
+bgimg: /ipfs/uAXAAMxItChgBcBEU4_9t2QBL1QvjFiy23AU450iLQb0SDWJva2VoLW1pcy5qcGcY18QDCgIIAQ/bokeh-mis.jpg
+static: https://cdn.statically.io/img
+pgw: cloudflare-ipfs.com
+#
+googledocid: 1VfERUZ8oTEGlCT3Xn37yK1TOsYxFZuJryNNR7bhJdUM
+framaid: ydentity
+
+exclude:
+ - .org
+ - _site
+ - Gemfile
+ - Gemfile.lock
+ - travis.sh
