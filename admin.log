@@ -1,0 +1,4 @@
+
+git commit -m "first commit"
+git remote add origin git@michel47.github.com:michel47/ydentity.ml.git
+git push -u origin master

@@ -3,3 +3,4 @@
 
 # Redirect default Netlify subdomain to primary domain
 http://quirky-snyder-3ff3cf.netlify.com/* http://ydentity.ml/:splat 301!
+https://quirky-snyder-3ff3cf.netlify.com/* https://ydentity.ml/:splat 301!

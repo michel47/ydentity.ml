@@ -8,6 +8,7 @@ description: manage and control your identiy with Ydent™
 author: michelc
 email: michelc@gc-bank.org
 name: quirky-snyder-3ff3cf
+cssrelease: v1.3
 baseurl: ""
 url: "//ydentiy.ml" # the base hostname & protocol for your site
 search_url: "//duckduckgo.com/?q"
