@@ -1,4 +1,4 @@
-\=== README file fpr __{{ site.title }}__ website  ===
+\=== README file for __{{ site.title }}__ website  ===
 
 ### &ldquo;{{ site.moto }}&rdquo; ~ {{site.author}}
 
