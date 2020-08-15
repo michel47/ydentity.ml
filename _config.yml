@@ -1,5 +1,6 @@
 # Site settings
 # vim: nospell
+host: 0.0.0.0
 port: 4000
 output: _dist
 title: "Ydentity™"
@@ -8,6 +9,8 @@ description: manage and control your identiy with Ydent™
 author: michelc
 email: michelc@gc-bank.org
 name: quirky-snyder-3ff3cf
+jsrelease: 1.7
+cssrelease: 1.3
 baseurl: ""
 url: "//ydentiy.ml" # the base hostname & protocol for your site
 search_url: "//duckduckgo.com/?q"
